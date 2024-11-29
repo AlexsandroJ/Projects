@@ -60,7 +60,7 @@ const cardapio = {
         { type: "Pepperoni e Chocolate", value: 27.99 }
     ],
     tipos: [{
-        title: "Pizzas_Normais",
+        title: "Pizzas Normais",
         inicio: 0,
         fim: 9
     },
